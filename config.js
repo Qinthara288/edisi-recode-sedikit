@@ -14,19 +14,19 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6282146218274'] //ur owner number
-global.ownername = "🦄Dream Guy Riell" //ur owner name
-global.ytname = "YT: Riell" //ur yt chanel name
+global.vcardowner = ['6285891794438'] //ur owner number
+global.ownername = "🦄Qinthara Naufal Fathin" //ur owner name
+global.ytname = "YT: Naufal" //ur yt chanel name
 global.socialm = "GitHub: RiellTod1" //ur github or insta name
 global.location = "indonesia, Kaltim, tenggarong" //ur location
 
 //bot bomdy 
-global.owner = ['6282146218274'] //ur number
-global.ownernomer = "6282146218274" //ur number
-global.ownertag = '6282146218274' //ur tag number
-global.premium = ['6282146218274'] //ur premium number
-global.botname = 'Khurushi bot' //ur bot name
-global.ownername = "🦄Dream Guy Riell"
+global.owner = ['6285891794438'] //ur number
+global.ownernomer = "6285891794438" //ur number
+global.ownertag = '6285891794438' //ur tag number
+global.premium = ['6285891794438'] //ur premium number
+global.botname = 'Naufal bot' //ur bot name
+global.ownername = "🦄Qinthara Naufal fathin"
 global.linkz = "https://youtu.be/CO3bkX-pG6o" //your theme url which will be displayed on whatsapp
 global.websitex = "https:/github.com/RiellTod1" //ur website to be displayed
 global.botscript = 'Recode sendri dek🗿/DGX' //script link
